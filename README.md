@@ -1,5 +1,5 @@
 # git-extract
-Use fzf to extract files into clean commits from WIP branches
+Use [fzf](https://github.com/junegunn/fzf) to extract files into clean commits from work-in-progress branches
 
 ## usage
 
@@ -18,11 +18,7 @@ Just drop the `git-extract` script into your `$PATH` and make sure it's executab
 
 ### demo
 
-
-
 https://github.com/aerosol/git-extract/assets/173738/09ed7731-f5f3-4069-9376-b59ad3b59513
-
-
 
 ## motivation
 
