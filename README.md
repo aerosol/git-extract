@@ -12,6 +12,10 @@ git extract <source_branch> <target_branch> [<main_branch>]
 $ git extract origin/wip-feature-dirty feature-clean origin/main
 ```
 
+## installation
+
+Just drop the `git-extract` script into your `$PATH` and make sure it's executable.
+
 ### demo
 
 
